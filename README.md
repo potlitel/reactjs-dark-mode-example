@@ -1,3 +1,13 @@
+# Intro
+
+This project has been created based on the article:
+https://morioh.com/p/c39a4448443d?f=5c21fb01c16e2556b555ab32
+https://www.w3schools.com/howto/howto_css_switch.asp?ref=morioh.com&utm_source=morioh.com
+
+and looks as follows:
+
+<img src="images/Main.gif" alt="Logo" width="840" height="480">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
